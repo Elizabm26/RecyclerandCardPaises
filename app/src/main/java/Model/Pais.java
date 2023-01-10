@@ -62,5 +62,4 @@ public class Pais {
         Prefijo = a.getString("TelPref").toString();
     }
 
-
 }
